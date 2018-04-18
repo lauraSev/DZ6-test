@@ -1,0 +1,31 @@
+{
+	"title": "Литературный тест",
+	"description": "Книжные герои",
+	"questions": [
+		{ 
+			"question": "Кто нарубил бабок?", 
+			"answers": [
+				{"title":"Рудин","is_right": "N"},
+				{"title":"Раскольников","is_right": "Y"},
+				{"title":"Болконский","is_right": "N"}
+			]
+		},
+		{ 
+			"question": "Кто женился на Наташе Ростовой?", 
+			"answers": [
+				{"title":"Безухов","is_right": "Y"},
+				{"title":"Раскольников","is_right": "N"},
+				{"title":"Болконский","is_right": "N"}
+			]
+		},
+		
+		{ 
+			"question": "Кто любил сидеть на диване?", 
+			"answers": [
+				{"title":"Рудин","is_right": "N"},
+				{"title":"Раскольников","is_right": "N"},
+				{"title":"Обломов","is_right": "Y"}
+			]
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"title": "Героини романов",
+	"description": "Помните ли вы героинь классической литературы?",
+	"questions": [
+		{ 
+			"question": "Героиня Толстого упавшая под поезд?", 
+			"answers": [
+				{"title":"Каренина","is_right": "Y"},
+				{"title":"Ростова","is_right": "N"},
+				{"title":"Гончарова","is_right": "N"}
+			]
+		},
+		
+		{ 
+			"question": "В кго был влюблен Ленский?", 
+			"answers": [
+				{"title":"Татьяну","is_right": "N"},
+				{"title":"Анну","is_right": "N"},
+				{"title":"Ольгу","is_right": "Y"}
+			]
+		},
+		
+		{ 
+			"question": "Сколько сестер было в семье Лиззи Беннет?", 
+			"answers": [
+				{"title":"2","is_right": "N"},
+				{"title":"4","is_right": "N"},
+				{"title":"5","is_right": "Y"}
+			]
+		}
+		
+		
+	]
+}
